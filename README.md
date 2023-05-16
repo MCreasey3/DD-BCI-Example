@@ -1,5 +1,5 @@
 # DD-BCI-Example
-Sample code from an Android PWA to measure distracted driving.
+
 
 Some code from CrimsonHacks 2019 project "Drowsy Driver", to demonstrate simple repository commands for a friend.
 
